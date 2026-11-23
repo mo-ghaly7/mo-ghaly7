@@ -39,40 +39,40 @@ I'm continuously developing my blue-team skills through cybersecurity labs, prac
 <table>
   <tr>
     <td align="center" width="25%" valign="top">
-      <a href="CYBERDEFENDERS_PROFILE_URL"><img src="https://www.google.com/s2/favicons?domain=cyberdefenders.org&sz=64" width="48" height="48" alt="CyberDefenders"></a>
+      <img src="https://www.google.com/s2/favicons?domain=cyberdefenders.org&sz=64" width="48" height="48" alt="CyberDefenders"></a>
       <br><br>
       <b>CyberDefenders</b>
       <br>
       <sub>Blue-team investigations and digital forensics challenges</sub>
       <br><br>
-      <a href="CYBERDEFENDERS_PROFILE_URL">View profile →</a>
+      <a href="https://cyberdefenders.org/p/Mo2/">View profile →</a>
     </td>
     <td align="center" width="25%" valign="top">
-      <a href="LETSDEFEND_PROFILE_URL"><img src="https://www.google.com/s2/favicons?domain=letsdefend.io&sz=64" width="48" height="48" alt="LetsDefend"></a>
+      <img src="https://www.google.com/s2/favicons?domain=letsdefend.io&sz=64" width="48" height="48" alt="LetsDefend"></a>
       <br><br>
       <b>LetsDefend</b>
       <br>
       <sub>SOC alert investigation and incident response simulations</sub>
       <br><br>
-      <a href="LETSDEFEND_PROFILE_URL">View profile →</a>
+      <a href="https://app.letsdefend.io/user/luffy7">View profile →</a>
     </td>
     <td align="center" width="25%" valign="top">
-      <a href="TRYHACKME_PROFILE_URL"><img src="https://www.google.com/s2/favicons?domain=tryhackme.com&sz=64" width="48" height="48" alt="TryHackMe"></a>
+     <img src="https://www.google.com/s2/favicons?domain=tryhackme.com&sz=64" width="48" height="48" alt="TryHackMe"></a>
       <br><br>
       <b>TryHackMe</b>
       <br>
       <sub>Cybersecurity learning paths and hands-on labs</sub>
       <br><br>
-      <a href="TRYHACKME_PROFILE_URL">View profile →</a>
+      <a href="https://tryhackme.com/p/luffy11">View profile →</a>
     </td>
     <td align="center" width="25%" valign="top">
-      <a href="HACKTHEBOX_PROFILE_URL"><img src="https://www.google.com/s2/favicons?domain=hackthebox.com&sz=64" width="48" height="48" alt="Hack The Box"></a>
+      <img src="https://www.google.com/s2/favicons?domain=hackthebox.com&sz=64" width="48" height="48" alt="Hack The Box"></a>
       <br><br>
       <b>Hack The Box</b>
       <br>
       <sub>Practical cybersecurity challenges and technical labs</sub>
       <br><br>
-      <a href="HACKTHEBOX_PROFILE_URL">View profile →</a>
+      <a href="https://profile.hackthebox.com/profile/019db1be-2aa5-73e4-95a7-1c96c7db1173?utm_medium=copy_url">View profile →</a>
     </td>
   </tr>
 </table>
