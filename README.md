@@ -14,7 +14,6 @@
 </div>
 
 
-**Detecting threats. Investigating alerts. Strengthening defenses.**
 
 ![Role](https://img.shields.io/badge/ROLE-SOC%20Analyst%20Tier%201-0891B2?style=flat-square&labelColor=161B22)
 ![Focus](https://img.shields.io/badge/FOCUS-Blue%20Team-2EA043?style=flat-square&labelColor=161B22)
