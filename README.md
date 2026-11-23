@@ -131,13 +131,13 @@ Practical work is tracked here. Add a row each time you complete something.
 [github]: https://github.com/mo-ghaly7
 
 <!-- Lab write-ups -->
-[writeup-1]: #
+
 
 
 
 <!-- Project repositories -->
-[project-siem]: #
+
 
 
 <!-- Certification verification links -->
-[cert-soc]: #
+
