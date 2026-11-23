@@ -9,17 +9,14 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,50:0A1F44,100:0B3A6E&text=%F0%9D%93%9C%F0%9D%93%B8%27%F0%9D%93%B6%F0%9D%93%AE%F0%9D%93%B7%20%F0%9D%93%96%F0%9D%93%B1%F0%9D%93%AA%F0%9D%93%B5%F0%9D%94%82&fontColor=E6EDF3&fontSize=64&fontAlignY=36&desc=%F0%9D%93%A2%F0%9D%93%9E%F0%9D%93%92%20%F0%9D%93%90%F0%9D%93%B7%F0%9D%93%AA%F0%9D%93%B5%F0%9D%94%82%F0%9D%93%BC%F0%9D%93%BD&descSize=26&descColor=22D3EE&descAlignY=58&section=header)
 
-[![Tagline](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=40&lines=Detecting+threats.;Investigating+alerts.;Strengthening+defenses.)](#)
-
+[![Tagline](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=620&height=40&lines=Detecting+threats.;Investigating+alerts.;Strengthening+defenses.)](#)
 </div>
 
 
-
-![Role](https://img.shields.io/badge/ROLE-SOC%20Analyst%20Tier%201-0891B2?style=flat-square&labelColor=161B22)
-![Focus](https://img.shields.io/badge/FOCUS-Blue%20Team-2EA043?style=flat-square&labelColor=161B22)
+![Role](https://img.shields.io/badge/ROLE-SOC%20Analyst%20Tier%201-30363D?style=flat-square&labelColor=161B22)
+![Focus](https://img.shields.io/badge/FOCUS-Blue%20Team-30363D?style=flat-square&labelColor=161B22)
 ![Location](https://img.shields.io/badge/LOCATION-Egypt-30363D?style=flat-square&labelColor=161B22)
-![Status](https://img.shields.io/badge/STATUS-Open%20to%20opportunities-2EA043?style=flat-square&labelColor=161B22)
-
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-30363D?style=flat-square&labelColor=161B22)
 </div>
 
 <br>
@@ -43,8 +40,7 @@ I'm continuously developing my blue-team skills through cybersecurity labs, prac
 | [![LetsDefend logo](https://www.google.com/s2/favicons?domain=letsdefend.io&sz=32)![LetsDefend](https://img.shields.io/badge/LetsDefend-2563EB?style=for-the-badge&labelColor=0B1220)][letsdefend] | SOC alert investigation and incident response simulations | [View profile][letsdefend] |
 | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14)][tryhackme] | Cybersecurity learning paths and hands-on labs | [View profile][tryhackme] |
 | [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)][hackthebox] | Practical cybersecurity challenges and technical labs | [View profile][hackthebox] |
-| [![LinkedIn logo](https://www.google.com/s2/favicons?domain=linkedin.com&sz=32)![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2)][linkedin] | Professional profile and networking | [View profile][linkedin] |
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][github] | Write-ups, detection content, and project repositories | [View profile][github] |Write-ups, detection content, and project repositories | [View profile][github] |
+
 
 ---
 
