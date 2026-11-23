@@ -96,11 +96,9 @@ How I approach an alert, from detection to documentation:
 
 ## Hands-On Labs & Investigations
 
-<!--Practical work is tracked here. Add a row each time you complete something-->
+Practical blue-team work, documented as investigation reports. Each write-up follows the same structure: summary, evidence, timeline, analysis, IOCs, ATT&CK mapping, verdict, and recommendations.
 
-
-
-
+### Investigation Write-ups
 
 
 
