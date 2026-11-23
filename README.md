@@ -9,8 +9,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,50:0A1F44,100:0B3A6E&text=%F0%9D%93%9C%F0%9D%93%B8%27%F0%9D%93%B6%F0%9D%93%AE%F0%9D%93%B7%20%F0%9D%93%96%F0%9D%93%B1%F0%9D%93%AA%F0%9D%93%B5%F0%9D%94%82&fontColor=E6EDF3&fontSize=64&fontAlignY=36&desc=%F0%9D%93%A2%F0%9D%93%9E%F0%9D%93%92%20%F0%9D%93%90%F0%9D%93%B7%F0%9D%93%AA%F0%9D%93%B5%F0%9D%94%82%F0%9D%93%BC%F0%9D%93%BD&descSize=26&descColor=22D3EE&descAlignY=58&section=header)
 
-[![Tagline](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=620&height=40&lines=Detecting+threats.;Investigating+alerts.;Strengthening+defenses.)](#)
-</div>
+[![Tagline](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=39FF14&center=true&vCenter=true&width=760&height=50&lines=Detecting+threats.;Investigating+alerts.;Strengthening+defenses.)](#)
 
 
 ![Role](https://img.shields.io/badge/ROLE-SOC%20Analyst%20Tier%201-30363D?style=flat-square&labelColor=161B22)
