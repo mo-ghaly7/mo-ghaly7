@@ -3,9 +3,6 @@
   Edit the reference links at the BOTTOM of this file to update
   every profile URL in one place.
 ============================================================ -->
-
-<div align="center">
-<div align="center">
 <div align="center">
 
 <img src="banner.svg" width="100%" alt="Pixel-art gaming room of a SOC analyst">
