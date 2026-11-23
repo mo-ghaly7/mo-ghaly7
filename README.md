@@ -111,8 +111,8 @@ Practical blue-team work, documented as investigation reports. Each write-up fol
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0891B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22)][linkedin]
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22)](mailto:momenghaly403@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-30363D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22)][linkedin]
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-30363D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22)](mailto:momenghaly403@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-30363D?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)][github]
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B3A6E,50:0A1F44,100:020617&section=footer)
