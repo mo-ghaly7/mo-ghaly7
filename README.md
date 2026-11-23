@@ -34,15 +34,50 @@ I'm continuously developing my blue-team skills through cybersecurity labs, prac
 ---
 
 ## Cybersecurity Profiles & Learning Platforms
-| Platform | What I do there | Profile |
-|:--|:--|:--|
-| [![CyberDefenders logo](https://www.google.com/s2/favicons?domain=cyberdefenders.org&sz=32)![CyberDefenders](https://img.shields.io/badge/CyberDefenders-1D4ED8?style=for-the-badge&labelColor=0B1220)][cyberdefenders] | Blue-team investigations and digital forensics challenges | [View profile][cyberdefenders] |
-| [![LetsDefend logo](https://www.google.com/s2/favicons?domain=letsdefend.io&sz=32)![LetsDefend](https://img.shields.io/badge/LetsDefend-2563EB?style=for-the-badge&labelColor=0B1220)][letsdefend] | SOC alert investigation and incident response simulations | [View profile][letsdefend] |
-| [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14)][tryhackme] | Cybersecurity learning paths and hands-on labs | [View profile][tryhackme] |
-| [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)][hackthebox] | Practical cybersecurity challenges and technical labs | [View profile][hackthebox] |
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <a href="CYBERDEFENDERS_PROFILE_URL"><img src="https://www.google.com/s2/favicons?domain=cyberdefenders.org&sz=64" width="48" height="48" alt="CyberDefenders"></a>
+      <br><br>
+      <b>CyberDefenders</b>
+      <br>
+      <sub>Blue-team investigations and digital forensics challenges</sub>
+      <br><br>
+      <a href="CYBERDEFENDERS_PROFILE_URL">View profile →</a>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="LETSDEFEND_PROFILE_URL"><img src="https://www.google.com/s2/favicons?domain=letsdefend.io&sz=64" width="48" height="48" alt="LetsDefend"></a>
+      <br><br>
+      <b>LetsDefend</b>
+      <br>
+      <sub>SOC alert investigation and incident response simulations</sub>
+      <br><br>
+      <a href="LETSDEFEND_PROFILE_URL">View profile →</a>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="TRYHACKME_PROFILE_URL"><img src="https://www.google.com/s2/favicons?domain=tryhackme.com&sz=64" width="48" height="48" alt="TryHackMe"></a>
+      <br><br>
+      <b>TryHackMe</b>
+      <br>
+      <sub>Cybersecurity learning paths and hands-on labs</sub>
+      <br><br>
+      <a href="TRYHACKME_PROFILE_URL">View profile →</a>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="HACKTHEBOX_PROFILE_URL"><img src="https://www.google.com/s2/favicons?domain=hackthebox.com&sz=64" width="48" height="48" alt="Hack The Box"></a>
+      <br><br>
+      <b>Hack The Box</b>
+      <br>
+      <sub>Practical cybersecurity challenges and technical labs</sub>
+      <br><br>
+      <a href="HACKTHEBOX_PROFILE_URL">View profile →</a>
+    </td>
+  </tr>
+</table>
 
----
+</div>
 
 ## Technical Skills
 
