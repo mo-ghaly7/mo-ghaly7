@@ -56,21 +56,20 @@ I'm continuously developing my blue-team skills through cybersecurity labs, prac
 
 ### SIEM & Security Tools
 
-![Splunk](https://img.shields.io/badge/Splunk-0891B2?style=flat-square&logo=splunk&logoColor=white&labelColor=161B22)
-![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-0891B2?style=flat-square&logo=ibm&logoColor=white&labelColor=161B22)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-0891B2?style=flat-square&logo=elastic&logoColor=white&labelColor=161B22)
-![Wireshark](https://img.shields.io/badge/Wireshark-2EA043?style=flat-square&logo=wireshark&logoColor=white&labelColor=161B22)
-![Nmap](https://img.shields.io/badge/Nmap-2EA043?style=flat-square&labelColor=161B22)
-![Snort](https://img.shields.io/badge/Snort-2EA043?style=flat-square&labelColor=161B22)
-
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=65A637)
+![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&labelColor=0E83CD) 
+![Snort](https://img.shields.io/badge/Snort-EE3B8E?style=for-the-badge&labelColor=EE3B8E)
 ### Networking
 
 `TCP/IP` `DNS` `HTTP/HTTPS` `Network Traffic Analysis` `Common Network Protocols` `Firewall Fundamentals`
 
 ### Operating Systems
 
-![Linux](https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=white&labelColor=161B22)
-![Windows](https://img.shields.io/badge/Windows-30363D?style=flat-square&labelColor=161B22)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 `Windows Event Logs` `Linux Logs` `Active Directory Fundamentals`
 
