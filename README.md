@@ -96,11 +96,9 @@ How I approach an alert, from detection to documentation:
 
 ## Hands-On Labs & Investigations
 
-Practical work is tracked here. Add a row each time you complete something.
+<!--Practical work is tracked here. Add a row each time you complete something-->
 
 
-
-## Certifications & Training
 
 
 
