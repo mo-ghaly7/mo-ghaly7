@@ -5,7 +5,7 @@
 ============================================================ -->
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Pixel-art gaming room of a SOC analyst">
+<img src="banner.webp" width="100%" alt="Pixel-art gaming room of a SOC analyst">
 <img src="title (1).svg" width="80%" alt="Mo'men Ghaly - SOC Analyst ">
 <img src="divider.svg" width="100%" alt="">
 
