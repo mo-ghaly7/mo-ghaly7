@@ -144,7 +144,7 @@ Practical blue-team work, documented as investigation reports. Each write-up fol
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-30363D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22)](mailto:momenghaly403@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-30363D?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)][github]
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1F3A,50:1A0B3B,100:020617&section=footer) 
+<img src="footer.svg" width="100%" alt="">
 
 </div>
 
