@@ -6,7 +6,7 @@
 <div align="center">
 
 <img src="banner.gif" width="100%" alt="Pixel-art gaming room of a SOC analyst">
-<img src="title (2).svg" width="80%" alt="Mo'men Ghaly - SOC Analyst ">
+<img src="title (3).svg" width="80%" alt="Mo'men Ghaly - SOC Analyst ">
 <img src="divider (1).svg" width="100%" alt="">
 
 [![Tagline](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=39FF14&center=true&vCenter=true&width=760&height=50&lines=Detecting+threats.;Investigating+alerts.;Strengthening+defenses.)](#)
